@@ -12,7 +12,7 @@ Used technologies:
 + Spring 3.0.7 (Core, MVC)
 + Hibernate 3.1.0
 + JBoss 5.1
-+ UI: JPS, JSTL
++ UI: JSP, JSTL
 + MySQL 5.5
 + Ant 1.8.4
 + Eclipse Indigo
