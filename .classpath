@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/antlr.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/asm.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/cglib.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging_1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-commons-annotations-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-validator-4.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.aop-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.asm-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.aspects-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.beans-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.context-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.context.support-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.core-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.expression-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.instrument-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.instrument.tomcat-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.jdbc-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.jms-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.orm-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.oxm-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.test-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.transaction-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.web-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.web.portlet-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.web.servlet-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.springframework.web.struts-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.soyatec.uml.CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
